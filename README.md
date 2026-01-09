@@ -23,7 +23,7 @@ HashScan.exe --install-auto
 
 GUI:
 
-![006](img/006.png
+![006](img/006.png)
 
 ## Другие возможности
 
